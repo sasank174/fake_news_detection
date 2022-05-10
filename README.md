@@ -13,6 +13,8 @@ fake news detection using ensemble model
 
 
 #### **requirements:**
+
+fork the project
 clone from https://github.com/sasank174/fake_news_detection.git
 ```
 - git clone https://github.com/sasank174/fake_news_detection.git
