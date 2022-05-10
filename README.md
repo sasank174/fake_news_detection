@@ -1,4 +1,4 @@
-# fake news detection
+# Fake news detection
 
 fake news detection using ensemble model
 
